@@ -4,4 +4,5 @@ Developed from the work of Logan and Cowan (1984), the stop signal task is a tes
 "ScienceDirect"
 
 ## Usage
+You should have installed ***PsychoPy***.
 Check out `Master` branch for the project.
