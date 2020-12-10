@@ -1,1 +1,1 @@
-# Stop-Signal-Task
+# Stop Signal Task (Standard + Proactive)
